@@ -1,7 +1,5 @@
 # Python-GUI-Project_AGE_CALCULATOR
 
-# Python-GUI-project_DICE ROLLER 
-
 This python code is executed using pycharm.
 
 The following steps explains flow of the code.
