@@ -1,7 +1,3 @@
-# Python Programming Course:GUI Applications sections
-#                                        - Rahul Mula
-# Source code for creating the age calculator
-
 from tkinter import *
 from datetime import datetime
 
